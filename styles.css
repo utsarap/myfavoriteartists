@@ -24,6 +24,7 @@ p {
 	font-family: courier new;
 	text-shadow: 3px 3px 3px #ababab;
 	text-color:"rgb(109, 109, 89)";
+	text-align: center;
 	border:"rgb(109, 109, 89)";
 	padding: 10px;
 }
