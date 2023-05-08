@@ -1,14 +1,14 @@
-head {
+h1 {
 	text-align: center;
 	font-family: courier new;
 	color:"rgb(79, 69, 49)";
 	border:"rgb(79, 69, 49)";
 	padding: 30px;
 }
-h1 {
-	color: blue;
-	font-family: courier new;
-}
 p {
-  	color: red;
+	text-align: center;
+	font-family: courier new;
+	color:"rgb(109, 109, 89)";
+	border:"rgb(109, 109, 89)";
+	padding: 10px;
 }
