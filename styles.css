@@ -30,9 +30,10 @@ p {
 li {
 	font-family: courier new;
 	color:"rgb(99, 89, 89)";
-}
-table {
-	align: center;	
+}  
+table.center {
+	margin-left:auto; 
+ 	margin-right:auto;
 }
 a {
 	font-family: courier new;
